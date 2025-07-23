@@ -72,6 +72,5 @@ Plaintext: hello world
 - Python 3.x
 
 ## Notes
-- The encryption relies on floating-point arithmetic, which may introduce minor variations due to precision.
 - The decryption process assumes the key is accurately retained and entered correctly.
 
